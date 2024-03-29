@@ -1,0 +1,91 @@
+Docker is one of Container Run time softwares
+
+Container Image				= Prepacked s/w pkg that combines OS kernel, run time and probably application binaries.
+Container instance or container		= An instance of Container Image
+
+1. Create Image
+2. See list of images in a machine
+3. Delete Image
+
+
+
+	Source code (.cpp, C, .java, ....)
+	Source Code Version Control Systems
+
+Case 1 : No remote repo available ... means you are starting new project
+		a. Create a local repo and clone into remote				
+			i.  Initiate a new local repo
+			ii. check-in your code in local repo
+			iii. Commit the code in local repo
+			iv. Clone/create a new remote repo
+			v.  link between remote and local repos
+			vi. push local repo into remote
+
+		b. Create a new remote repo
+			i. Create a new remote repo
+			ii. Clone the remote repo into local
+			iii. check-in your code changes in local repo
+			iv. Commit the code in local repo
+			v.  Push the code changes into remote from local
+
+Case 2: Remote repo available , but no local repo
+			ii. Clone the remote repo into local
+			iii. check-in your code changes in local repo
+			iv. Commit the code in local repo
+			v.  Push the code changes into remote from local
+
+Case 3: Local repo available, but no remote repo
+			iv. Clone a new remote repo from local repo
+			v.  link between remote and local repos
+			vi. push local repo into remote
+
+Local 
+		- Download and install GIT
+
+Remote
+	Options: Various Git Servers or Git providers
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
